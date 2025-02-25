@@ -12,24 +12,8 @@ This project implements distance-based classification using K-Means clustering o
 - **Automation & Containerization:** Running experiments using Docker and GitHub Actions.
 
 
-## Setup & Installation
 
-### Prerequisites
-Ensure you have the following installed:
-- [Python 3.11](https://www.python.org/downloads/)
-- [Git](https://git-scm.com/downloads)
-- [Docker](https://www.docker.com/products/docker-desktop)
-- [Weights & Biases (WandB)](https://wandb.ai/site)
-- [Jupyter Notebook (for Kaggle experiments)](https://jupyter.org/install)
-
-### Installation Steps
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Mohil-Ahuja/distance_classification.git
-   cd distance_classification
-
-
-## Results & Findings
+## Findings
 
 The project successfully detected faces, extracted features, and clustered them using K-Means. Here are the key findings:
 - Detected **X faces** in `plaksha_Faculty.jpg`.
@@ -60,7 +44,7 @@ The project successfully detected faces, extracted features, and clustered them 
    - **High k:** Higher bias, lower variance (smoother classification).
 
 
-## Experiment Tracking with Weights & Biases
+
 
 
 
