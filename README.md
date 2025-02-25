@@ -45,5 +45,5 @@ The project successfully detected faces, extracted features, and clustered them 
    - **High k:** Higher bias, lower variance (smoother classification).
 
 
-![WandB Overview](image\d1.png)
-![WandB Overview](image\d2.png)
+![WandB Overview](https://github.com/Manishbisht-bit/distance_classification/blob/main/image/d1.png)
+![WandB Overview](https://github.com/Manishbisht-bit/distance_classification/blob/main/image/d2.png)
